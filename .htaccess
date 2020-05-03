@@ -1,0 +1,5 @@
+AuthName "Bitte geben Sie das Passwort ein!"
+AuthType Basic
+AuthUserFile /customers/2/d/4/theck23.github.io/httpd.www/.htpasswd
+AuthGroupFile /dev/null
+require valid-user 
